@@ -6,7 +6,7 @@
 
 A complete enterprise network security architecture project for a multinational enterprise with multiple branch offices and remote users. Combines 14 strategic documents with 3 hands-on cybersecurity laboratory exercises — including HackTheBox and OWASP validation labs.
 
-On-job training (OJT) project at Spinnaker Analytics (Boston Institute of Analytics), completed as part of my PG Diploma (2026), adapted for GitHub.
+On-job training (OJT) project at Spinnaker Analytics, completed as part of my Master Diplomas in Cyber Security and Ethical Hacking at Boston Institute of Analytics (2026). Adapted for GitHub.
 
 ## Deliverables — 14 Documents
 
